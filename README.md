@@ -1,3 +1,3 @@
-[North American QRP CW Club](https://naqcc.info)
+[North American QRP CW Club](http://naqcc.info)
 
 Software repository
